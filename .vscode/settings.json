@@ -1,3 +1,5 @@
 {
-  "cSpell.words": ["groq", "kohli", "virat"]
+  "cSpell.words": ["groq", "kohli", "Sarbhukan", "virat"],
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true
 }

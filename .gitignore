@@ -5,6 +5,9 @@ venv/
 
 # Environment variables and API keys
 .env
+genai_env/
+__pycache__/
+*.py[cod]
 
 # Python cache files
 __pycache__/
