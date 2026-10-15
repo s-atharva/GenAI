@@ -5,3 +5,4 @@ dotenv
 streamlit
 langchain-ollama
 langchain_community
+langchain_core
